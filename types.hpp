@@ -2,7 +2,7 @@
 
 #include <cstddef>
 
-namespace mst
+namespace mtd
 {
     using size_t = std::size_t;
 }

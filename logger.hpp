@@ -23,4 +23,4 @@ auto nullStream = FakeStream();
 #else
 #define debug nullStream
 #endif
-#define error outStream << "[ERROR] ";
+#define error outStream << "[ERROR] "
